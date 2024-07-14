@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\bin\Debug\net8.0-windows\AkaryakıtOtomasyonu.exe
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\bin\Debug\net8.0-windows\AkaryakıtOtomasyonu.deps.json
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\bin\Debug\net8.0-windows\AkaryakıtOtomasyonu.runtimeconfig.json
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\bin\Debug\net8.0-windows\AkaryakıtOtomasyonu.dll
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\bin\Debug\net8.0-windows\AkaryakıtOtomasyonu.pdb
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.Form1.resources
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.AssemblyInfo.cs
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.dll
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\refint\AkaryakıtOtomasyonu.dll
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.pdb
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\AkaryakıtOtomasyonu.genruntimeconfig.cache
+C:\Users\Mert\source\repos\AkaryakıtOtomasyonu\AkaryakıtOtomasyonu\obj\Debug\net8.0-windows\ref\AkaryakıtOtomasyonu.dll

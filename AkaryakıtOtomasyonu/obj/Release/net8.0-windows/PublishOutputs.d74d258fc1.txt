@@ -1,0 +1,5 @@
+C:\Users\Mert\Desktop\Akaryakıt Otomasyonu\AkaryakıtOtomasyonu.exe
+C:\Users\Mert\Desktop\Akaryakıt Otomasyonu\AkaryakıtOtomasyonu.dll
+C:\Users\Mert\Desktop\Akaryakıt Otomasyonu\AkaryakıtOtomasyonu.deps.json
+C:\Users\Mert\Desktop\Akaryakıt Otomasyonu\AkaryakıtOtomasyonu.runtimeconfig.json
+C:\Users\Mert\Desktop\Akaryakıt Otomasyonu\AkaryakıtOtomasyonu.pdb
